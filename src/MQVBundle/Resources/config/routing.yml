@@ -1,0 +1,3 @@
+mqv_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MQVBundle:Default:index }
